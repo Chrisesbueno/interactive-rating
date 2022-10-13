@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution](https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI/hub/interactive-rating-component-NL8Od_fFEu)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/interactive-rating-component-NL8Od_fFEu)
 - Live Site URL: [Demo](https://chrisesbueno.github.io/interactive-rating/)
 
 ### My process
